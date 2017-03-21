@@ -382,3 +382,7 @@ body {
     height: 400px;
     margin-top: 35%;
 }
+
+.walletAccess-page {
+    background-color: red;
+}
