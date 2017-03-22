@@ -386,3 +386,8 @@ body {
 .wallet-page {
     background-color: red;
 }
+
+.btn-active {
+    color: red;
+    background-color: black;
+}
