@@ -383,10 +383,6 @@ body {
     margin-top: 35%;
 }
 
-.wallet-page {
-    background-color: red;
-}
-
 .cardDetail-toggle-row:nth-child(2) {
     visibility: hidden;
 }
