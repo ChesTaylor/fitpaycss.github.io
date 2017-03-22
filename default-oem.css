@@ -387,7 +387,7 @@ body {
     background-color: red;
 }
 
-.cardDetail-button-activeState {
+.cardDetail-section-toggleButtons : nth-child(2) {
     color: black;
     background-color: red;
 }
