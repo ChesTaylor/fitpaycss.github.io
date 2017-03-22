@@ -387,11 +387,6 @@ body {
     background-color: red;
 }
 
-.cardDetail-section-toggleButtons{
-    background-color: blue;
-}
 .cardDetail-toggle-row:nth-child(2) {
-    color: black;
-    background: green;
-    background-color: red;
+    visibility: hidden;
 }
