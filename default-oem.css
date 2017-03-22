@@ -390,7 +390,7 @@ body {
 .cardDetail-section-toggleButtons{
     background-color: blue;
 }
-.cardDetail-section-toggleButtons:nth-child(2) {
+.cardDetail-toggle-row:nth-child(2) {
     color: black;
     background: green;
     background-color: red;
