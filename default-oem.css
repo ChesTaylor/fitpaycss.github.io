@@ -387,7 +387,7 @@ body {
     background-color: red;
 }
 
-.btn-active {
-    color: red;
-    background-color: black;
+.cardDetail-button-activeState {
+    color: black;
+    background-color: red;
 }
