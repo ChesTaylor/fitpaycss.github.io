@@ -87,8 +87,8 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
 #expYear {width:34%}
 #title {
     font-size: 24px;
-    color: #666;
-    background-color: #eee;
+    color: #F8F8F8;
+    background-color: #414A5C;
     border: 1px solid #ccc;
     padding: 5px;
     margin-bottom: -2px;
@@ -383,9 +383,17 @@ body {
     margin-top: 35%;
 }
 
-.wallet-title {
-    background-color:red;
+/*.wallet-title {
+    background-color: #414A5C;
 }
+
+.wallet-title SPAN {
+    display: none;
+}
+
+.wallet-title:after {
+    content: "CREDIT CARDS"
+}*/
 
 .cardDetail-toggle-row:nth-child(2) {
     visibility: hidden;
