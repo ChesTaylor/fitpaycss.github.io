@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+@font-face {
+    font-family: "Open Sans";
+}
+
 html, input, select, td, label {font:21px lato;color:#6B6B6B; font-weight: 300}
 /*section {background-color:#fff}*/
 
@@ -395,6 +399,8 @@ body {
 .wallet-title:after {
     content: "CREDIT CARDS"
 }
+
+
 
 .cardDetail-toggle-row:nth-child(2) {
     visibility: hidden;
