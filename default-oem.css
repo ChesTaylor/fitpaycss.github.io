@@ -402,6 +402,10 @@ body {
 
 .wallet-button-back {
     background: url("https://chestaylor.github.io/fitpaycss.github.io/back1600.png") no-repeat;
+    cursor:pointer;
+    border:none;
+    width:100px;
+    height:100px;
 }
 
 .addCard-title {
