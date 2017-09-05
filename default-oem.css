@@ -34,8 +34,6 @@ H2 {margin:0px 0px 7px 10px;font-size: 28px;font-weight: 300;}
     color: #B90000;}
 
 .title {    font-size: 46px;
-    background-color: red;
-    color: blue;
     border-bottom: 1px solid #ccc;
     width: 91%;
     margin: auto;
@@ -385,8 +383,9 @@ body {
     margin-top: 35%;
 }
 
-/*.wallet-title {
+.wallet-title {
     background-color: #414A5C;
+    color: #F8F8F8;
 }
 
 .wallet-title SPAN {
@@ -395,7 +394,7 @@ body {
 
 .wallet-title:after {
     content: "CREDIT CARDS"
-}*/
+}
 
 .cardDetail-toggle-row:nth-child(2) {
     visibility: hidden;
