@@ -400,19 +400,26 @@ body {
     content: "CREDIT CARDS"
 }
 
+.wallet-button-back {
+    background: url("https://chestaylor.github.io/fitpaycss.github.io/back1600.png");
+}
+
 .addCard-title {
     background-color: #414A5C;
     color: #F8F8F8;
+    text-transform: uppercase;
 }
 
 .terms-title {
     background-color: #414A5C;
     color: #F8F8F8;
+    text-transform: uppercase;
 }
 
 .cardDetail-title {
     background-color: #414A5C;
     color: #F8F8F8;
+    text-transform: uppercase;
 }
 
 .cardDetail-toggle-row:nth-child(2) {
@@ -422,9 +429,11 @@ body {
 .idv-title {
     background-color: #414A5C;
     color: #F8F8F8;
+    text-transform: uppercase;
 }
 
 .submitOTP-title {
     background-color: #414A5C;
     color: #F8F8F8;
+    text-transform: uppercase;
 }
