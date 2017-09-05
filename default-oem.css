@@ -390,6 +390,7 @@ body {
 .wallet-title {
     background-color: #414A5C;
     color: #F8F8F8;
+    font-weight: bold
 }
 
 .wallet-title SPAN {
