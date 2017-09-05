@@ -34,6 +34,8 @@ H2 {margin:0px 0px 7px 10px;font-size: 28px;font-weight: 300;}
     color: #B90000;}
 
 .title {    font-size: 46px;
+    background-color: red;
+    color: blue;
     border-bottom: 1px solid #ccc;
     width: 91%;
     margin: auto;
@@ -87,8 +89,8 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
 #expYear {width:34%}
 #title {
     font-size: 24px;
-    color: #F8F8F8;
-    background-color: #414A5C;
+    color: #666;
+    background-color: #eee;
     border: 1px solid #ccc;
     padding: 5px;
     margin-bottom: -2px;
