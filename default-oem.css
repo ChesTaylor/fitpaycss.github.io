@@ -390,7 +390,6 @@ body {
 .wallet-title {
     background-color: #414A5C;
     color: #F8F8F8;
-    font-weight: bold
 }
 
 .wallet-title SPAN {
@@ -401,8 +400,31 @@ body {
     content: "CREDIT CARDS"
 }
 
+.addCard-title {
+    background-color: #414A5C;
+    color: #F8F8F8;
+}
 
+.terms-title {
+    background-color: #414A5C;
+    color: #F8F8F8;
+}
+
+.cardDetail-title {
+    background-color: #414A5C;
+    color: #F8F8F8;
+}
 
 .cardDetail-toggle-row:nth-child(2) {
     visibility: hidden;
+}
+
+.idv-title {
+    background-color: #414A5C;
+    color: #F8F8F8;
+}
+
+.submitOTP-title {
+    background-color: #414A5C;
+    color: #F8F8F8;
 }
