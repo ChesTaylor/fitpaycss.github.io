@@ -187,9 +187,9 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     padding: 5px;
     padding-left: 6px;
     background: none;
-    background-color: #124080;
-    color: #fff;
-    font: 21px/24px Arial, sans-serif;
+    background-color: #414A5C;
+    color: #F8F8F8;
+    font: 32px "Open Sans";
 }
 
 .btn {
@@ -409,11 +409,6 @@ body {
 .wallet-button-back {
     background: transparent;
     visibility: hidden;
-}
-
-.addButton {
-    background-color: #414A5C;
-    font-size: 32px;
 }
 
 .addCard-title {
