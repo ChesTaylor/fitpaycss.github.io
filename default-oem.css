@@ -431,10 +431,14 @@ body {
     background-image: url("trash_icon_white.png");
 }
 
-.cardDetail-toggle-row:nth-child(2) {
+#activateCardToggle {
+    visibility: hidden;
+}
+
+/*.cardDetail-toggle-row:nth-child(2) {
     visibility: hidden;
     height: 0;
-}
+}*/
 
 .idv-title {
     background-color: #414A5C;
