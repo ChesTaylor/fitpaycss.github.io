@@ -131,7 +131,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
 #verificationMsg DIV {text-align: center}
 #verificationMsg P {height: 30px;font-size: 18px;}
 #verificationMsg DIV DIV {text-align: left}
-#cardList { border: 0px;background: transparent;text-decoration: none;font-size: 18px; color:#6B6B6B;font-size: 16px; }
+#cardList { border: 0px;background-color: #414A5C;text-decoration: none;font-size: 18px; color:#6B6B6B;font-size: 16px; }
 #updates LI {color: #999;font-size: 16px;}
 #default, #disabled { position: absolute;
     display: inline-block;
