@@ -400,10 +400,6 @@ body {
     content: "CREDIT CARDS"
 }
 
-.wallet-button-back {
-    background-image: url("back_arrow_white.png");
-}
-
 .addCard-title {
     background-color: #414A5C;
     color: #F8F8F8;
@@ -422,6 +418,10 @@ body {
     text-transform: uppercase;
 }
 
+.cardDetail-button-back {
+    background-image: url("back_arrow_white.png");
+}
+
 .cardDetail-toggle-row:nth-child(2) {
     visibility: hidden;
 }
@@ -432,8 +432,16 @@ body {
     text-transform: uppercase;
 }
 
+.idv-button-back {
+    background-image: url("back_arrow_white.png");
+}
+
 .submitOTP-title {
     background-color: #414A5C;
     color: #F8F8F8;
     text-transform: uppercase;
+}
+
+.submitOTP-button-back {
+    background-image: url("back_arrow_white.png");
 }
