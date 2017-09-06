@@ -382,7 +382,7 @@ body {
 }
 
 .loader {
-    background: url(images/loader3.gif) no-repeat center;
+    background: url(Azure.gif) no-repeat center;
     height: 400px;
     margin-top: 35%;
 }
