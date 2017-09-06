@@ -400,6 +400,10 @@ body {
     content: "CREDIT CARDS"
 }
 
+.wallet-button-back {
+    background: transparent;
+}
+
 .addCard-title {
     background-color: #414A5C;
     color: #F8F8F8;
