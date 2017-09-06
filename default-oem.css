@@ -410,10 +410,6 @@ body {
     text-transform: uppercase;
 }
 
-.addCard-button-delete {
-    background-image: url("trash_icon_white.png");
-}
-
 .terms-title {
     background-color: #414A5C;
     color: #F8F8F8;
@@ -428,6 +424,10 @@ body {
 
 .cardDetail-button-back {
     background-image: url("back_arrow_white.png");
+}
+
+.cardDetail-button-delete {
+    background-image: url("trash_icon_white.png");
 }
 
 .cardDetail-toggle-row:nth-child(2) {
