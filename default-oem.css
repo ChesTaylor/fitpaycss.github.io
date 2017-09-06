@@ -387,9 +387,9 @@ body {
     margin-top: 35%;
 }
 
-.sync-loader IMG {
-    background: url(Azure.gif) no-repeat center;
-    height: 400px;
+.sync-loader {
+    background: url(Azure.gif) center no-repeat;
+    height: 200px;
     margin-top: 35%;
 }
 
