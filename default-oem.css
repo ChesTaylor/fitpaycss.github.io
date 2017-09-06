@@ -402,6 +402,7 @@ body {
 
 .wallet-button-back {
     background: transparent;
+    visibility: hidden;
 }
 
 .addCard-title {
@@ -432,6 +433,7 @@ body {
 
 .cardDetail-toggle-row:nth-child(2) {
     visibility: hidden;
+    height: 0;
 }
 
 .idv-title {
