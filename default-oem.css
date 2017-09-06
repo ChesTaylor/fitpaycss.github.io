@@ -387,13 +387,11 @@ body {
     margin-top: 35%;
 }
 
-/*
-.sync-loader {
+.sync-loader IMG {
     background: url(Azure.gif) no-repeat center;
     height: 400px;
     margin-top: 35%;
 }
-*/
 
 .wallet-title {
     background-color: #414A5C;
