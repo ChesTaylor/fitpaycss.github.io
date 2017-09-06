@@ -92,7 +92,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
 #title {
     font-size: 24px;
     color: red;
-    background-color: red;
+    background-color: blue;
     border: 1px solid #ccc;
     padding: 5px;
     margin-bottom: -2px;
@@ -387,10 +387,10 @@ body {
     margin-top: 35%;
 }
 
-.wallet-title {
+/*.wallet-title {
     background-color: #414A5C;
     color: #F8F8F8;
-}
+}*/
 
 .wallet-title SPAN {
     display: none;
