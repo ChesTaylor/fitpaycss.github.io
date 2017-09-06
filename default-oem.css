@@ -183,8 +183,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     border-radius: 50%;
     width: 32px;
     height: 32px;
-    padding: 5px;
-    padding-left: 6px;
+    padding-left: 11px;
     background: none;
     background-color: #414A5C;
     color: #F8F8F8;
