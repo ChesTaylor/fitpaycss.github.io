@@ -411,9 +411,9 @@ body {
     visibility: hidden;
 }
 
-.wallet-button-add {
+.addButton {
     background-color: #414A5C;
-    font-size: 46px;/*32*/
+    font-size: 32px;
 }
 
 .addCard-title {
