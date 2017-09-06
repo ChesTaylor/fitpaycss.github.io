@@ -393,20 +393,6 @@ body {
     margin-top: 35%;
 }
 
-.walletAccess-page,
-.walletAccess-title {
-    background-color: #414A5C;
-    color: #F8F8F8;
-    text-transform: uppercase;
-    margin-top:4vh;
-    margin-bottom:1vh;
-    border:0px;
-}
-
-.walletAccess-page {
-    height:46px;
-}
-
 .wallet-title {
     background-color: #414A5C;
     color: #F8F8F8;
