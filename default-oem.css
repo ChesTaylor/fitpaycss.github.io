@@ -401,7 +401,7 @@ body {
 }
 
 .wallet-button-back {
-    color:#F8F8F8;
+    background-image: url("back_arrow_white.png");
 }
 
 .addCard-title {
