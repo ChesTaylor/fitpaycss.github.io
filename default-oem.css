@@ -411,6 +411,11 @@ body {
     visibility: hidden;
 }
 
+.wallet-button-back {
+    background-color: #414A5C;
+    font-size: 46px;
+}
+
 .addCard-title {
     background-color: #414A5C;
     color: #F8F8F8;
