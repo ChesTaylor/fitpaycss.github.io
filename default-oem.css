@@ -445,15 +445,15 @@ body {
 }
 
 #submitCard {
-    background-color: #414A5C;
+    background: #414A5C;
 }
 
 #verification-code-submit {
-    background-color: #414A5C;
+    background: #414A5C;
 }
 
 #submit-retry {
-    background-color: #414A5C;
+    background: #414A5C;
 }
 
 .idv-title {
