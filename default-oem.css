@@ -192,15 +192,16 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
 }
 
 .btn {
-    background: #124080;
+    background: #414A5C;
     border-radius: 7px;
-    font-family: lato;
+    font-family: "Open Sans";
     color: #fff;
     font-size: 21px;
     padding: 10px 20px;
     border: 1px solid #e0e0e0;
     width: 98%;
     font-weight: 300;
+    font-color: #F8F8F8
 }
 
 .btn2 {
@@ -444,6 +445,7 @@ body {
     display: none;
 }
 
+/*
 #submitCard {
     background: #414A5C;
 }
@@ -455,6 +457,7 @@ body {
 #submit-retry {
     background: #414A5C;
 }
+*/
 
 .idv-title {
     background-color: #414A5C;
