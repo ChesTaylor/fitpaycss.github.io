@@ -191,7 +191,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     font: 32px "Open Sans";
 }
 
-.btn {
+.button {
     background: #414A5C;
     border-radius: 7px;
     font-family: "Open Sans";
