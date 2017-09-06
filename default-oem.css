@@ -401,11 +401,10 @@ body {
     margin-top:4vh;
     margin-bottom:1vh;
     border:0px;
-    height:46px;
 }
 
 .walletAccess-page {
-    height:1vh;
+    height:46px;
 }
 
 .wallet-title {
