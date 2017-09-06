@@ -432,13 +432,12 @@ body {
 }
 
 #activateCardToggle {
-    visibility: hidden;
+    display: none;
 }
 
-/*.cardDetail-toggle-row:nth-child(2) {
-    visibility: hidden;
-    height: 0;
-}*/
+.cardDetail-suspend-message {
+    display: none;
+}
 
 .idv-title {
     background-color: #414A5C;
