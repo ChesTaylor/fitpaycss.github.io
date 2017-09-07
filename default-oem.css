@@ -445,20 +445,6 @@ body {
     display: none;
 }
 
-/*
-#submitCard {
-    background: #414A5C;
-}
-
-#verification-code-submit {
-    background: #414A5C;
-}
-
-#submit-retry {
-    background: #414A5C;
-}
-*/
-
 .idv-title {
     background-color: #414A5C;
     color: #F8F8F8;
@@ -466,7 +452,7 @@ body {
 }
 
 .idv-desc {
-    color: #414A5C
+    color: #414A5C;
 }
 
 .idv-button-back {
@@ -481,4 +467,8 @@ body {
 
 .submitOTP-button-back {
     background-image: url("back_arrow_white.png");
+}
+
+.submitOTP H2 {
+    color: #414A5C;
 }
