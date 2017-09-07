@@ -473,3 +473,8 @@ body {
 .submitOTP-container H2 {
     color: #414A5C;
 }
+
+.device-status {
+    background: #414A5C;
+    color: #F8F8F8;
+}
