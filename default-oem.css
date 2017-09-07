@@ -434,9 +434,8 @@ body {
 }
 
 .cardDetail-button-delete {
-    background: #414A5C;
     background-image: url("trash_icon_white.png");
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
 #activateCardToggle {
