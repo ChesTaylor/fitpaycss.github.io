@@ -465,6 +465,10 @@ body {
     text-transform: uppercase;
 }
 
+.idv-desc {
+    color: #414A5C
+}
+
 .idv-button-back {
     background-image: url("back_arrow_white.png");
 }
