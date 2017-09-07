@@ -469,6 +469,6 @@ body {
     background-image: url("back_arrow_white.png");
 }
 
-.submitOTP H2 {
+.submitOTP-container H2 {
     color: #414A5C;
 }
