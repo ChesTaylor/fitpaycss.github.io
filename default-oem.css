@@ -160,7 +160,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
 }
 
 
-.arrow {font: 30px lato;font-weight: 300;}
+.arrow {font: 30px "Open Sans";font-weight: 300;}
 
 .termsModal {background: transparent}
 
@@ -207,7 +207,6 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     background-image: -o-linear-gradient(top, #fcfcfc, #e6e6e6);
     background-image: linear-gradient(to bottom, #fcfcfc, #e6e6e6);
     border-radius: 7px;
-    font-family: lato;
     color: #696969;
     font-size: 21px;
     padding: 10px 20px 10px 20px;
@@ -239,7 +238,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     padding-left: 10px;
 }
 
-#terms {font:18px lato; font-weight: 300; width:98%; padding:10px;margin-bottom: 30px;}
+#terms {font:18px "Open Sans"; font-weight: 300; width:98%; padding:10px;margin-bottom: 30px;}
 #footer {
     position:fixed;
     left:0px;
@@ -249,7 +248,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     background:#999;
 }
 #footer DIV {width: 98%;margin-top: 12px;}
-#footer DIV button {float:right;color:#fff; font-weight: 400; background: none; border:0px; font:bold 18px lato}
+#footer DIV button {float:right;color:#fff; font-weight: 400; background: none; border:0px; font:bold 18px "Open Sans"}
 #footer DIV button + button {float:left;}
 
 
@@ -261,7 +260,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     background-image: -o-linear-gradient(top, #ed2323, #a10000);
     background-image: linear-gradient(to bottom, #ed2323, #a10000);
     border-radius: 7px;
-    font-family: lato;
+    font-family: "Open Sans";
     color: #fff;
     font-size: 21px;
     padding: 10px 20px 10px 20px;
@@ -277,7 +276,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
 
 .cg-busy-default-text{
     font-size: 18px;
-    font-family: lato;
+    font-family: "Open Sans";
     margin: 10px;
     font-size: 16px;
     color: #6B6B6B;
@@ -288,7 +287,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
 .cg-busy-default-sign{width: 65%;}
 
 .cg-busy-default-sign IMG {max-width: 100%}
-.cardDetailBtn {font: 40px lato;color: #6B6B6B;}
+.cardDetailBtn {font: 40px "Open Sans";color: #6B6B6B;}
 
 .version {    text-align: center;
     font-size: 11px;
