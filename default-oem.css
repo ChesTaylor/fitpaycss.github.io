@@ -490,3 +490,8 @@ body {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+.rtmStatusIcon IMG {
+    height: 19px;
+    /*src: ;*/
+}
