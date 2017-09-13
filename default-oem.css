@@ -477,4 +477,9 @@ body {
 .device-status {
     background: #414A5C;
     color: #F8F8F8;
+    line-height: 19px;
+}
+
+.rtmStatus {
+    font-size: 12px;
 }
