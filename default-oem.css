@@ -480,6 +480,10 @@ body {
     line-height: 19px;
 }
 
+.device-status SPAN {
+    line-height: 19px;
+}
+
 .rtmStatus {
     font-size: 12px;
     font-weight: bold;
