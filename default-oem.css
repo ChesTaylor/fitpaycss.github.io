@@ -33,6 +33,7 @@ H2 {margin:0px 0px 7px 10px;font-size: 28px;font-weight: 300;}
     color: #B90000;}
 
 .title {    font-size: 46px;
+    line-height: calc(100vh * 57.0 / 667);
     border-bottom: 1px solid #ccc;
     width: 91%;
     margin: auto;
@@ -416,18 +417,21 @@ body {
     background-color: #414A5C;
     color: #F8F8F8;
     text-transform: uppercase;
+    line-height: calc(100vh * 57.0 / 667);
 }
 
 .terms-title {
     background-color: #414A5C;
     color: #F8F8F8;
     text-transform: uppercase;
+    line-height: calc(100vh * 57.0 / 667);
 }
 
 .cardDetail-title {
     background-color: #414A5C;
     color: #F8F8F8;
     text-transform: uppercase;
+    line-height: calc(100vh * 57.0 / 667);
 }
 
 .cardDetail-button-back {
@@ -451,6 +455,7 @@ body {
     background-color: #414A5C;
     color: #F8F8F8;
     text-transform: uppercase;
+    line-height: calc(100vh * 57.0 / 667);
 }
 
 .idv-desc {
@@ -465,6 +470,7 @@ body {
     background-color: #414A5C;
     color: #F8F8F8;
     text-transform: uppercase;
+    line-height: calc(100vh * 57.0 / 667);
 }
 
 .submitOTP-button-back {
