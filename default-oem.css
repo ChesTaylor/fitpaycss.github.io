@@ -390,6 +390,7 @@ body {
 .wallet-title {
     background-color: #414A5C;
     color: #F8F8F8;
+    line-height: calc(100% * 57.0 / 667);
 }
 
 .wallet-title SPAN {
@@ -489,9 +490,11 @@ body {
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
+    max-height: calc(100% * 27.0 / 667.0);
 }
 
 .rtmStatusIcon IMG {
-    height: 19px;
+    height: calc(100% * 27.0 / 667.0 / 3.0);
+    width: calc(100% * 27.0 / 667.0 / 3.0);
     /*src: ;*/
 }
