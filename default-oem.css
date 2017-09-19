@@ -496,7 +496,6 @@ body {
 
 .device-status
 .rtmStatusIcon img {
-    /*height: calc(100vh * 27.0 / 667.0 / 3.0);*/
+    height: calc(100vh * 27.0 / 667.0 / 2.0);
     width: calc(100vh * 27.0 / 667.0 / 2.0);
-    /*src: ;*/
 }
