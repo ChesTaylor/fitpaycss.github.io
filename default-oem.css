@@ -390,7 +390,7 @@ body {
 .wallet-title {
     background-color: #414A5C;
     color: #F8F8F8;
-    line-height: calc(100% * 57.0 / 667);
+    line-height: calc(100vh * 57.0 / 667);
 }
 
 .wallet-title SPAN {
@@ -484,17 +484,17 @@ body {
 .device-status SPAN {
     line-height: 19px;
     vertical-align: middle;
+    max-height: calc(100vh * 27.0 / 667.0);
 }
 
 .rtmStatus {
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
-    max-height: calc(100% * 27.0 / 667.0);
 }
 
-.rtmStatusIcon IMG {
-    height: calc(100% * 27.0 / 667.0 / 3.0);
-    width: calc(100% * 27.0 / 667.0 / 3.0);
+.rtmStatusIcon img {
+    height: calc(100vh * 27.0 / 667.0 / 3.0);
+    width: calc(100vh * 27.0 / 667.0 / 3.0);
     /*src: ;*/
 }
