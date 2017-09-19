@@ -403,15 +403,9 @@ body {
 }
 
 .wallet-button-back {
-    background: transparent;
-    visibility: hidden;
+    /*background: transparent;
+    visibility: hidden;*/
 }
-
-/*
-#emptyWallet H2 SPAN {
-    color: #414A5C;
-}
-*/
 
 .addCard-title {
     background-color: #414A5C;
