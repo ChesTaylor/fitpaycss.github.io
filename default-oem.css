@@ -413,7 +413,7 @@ body {
     line-height: calc(100vh * 57.0 / 667);
 }
 
-.wallet-button-back {
+.addCard-button-back {
     margin-top: 0;
     width: 46px;
     background-image: url("back_arrow_white.png");
