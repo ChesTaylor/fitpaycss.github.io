@@ -413,6 +413,12 @@ body {
     line-height: calc(100vh * 57.0 / 667);
 }
 
+.wallet-button-back {
+    margin-top: 0;
+    width: 46px;
+    background-image: url("back_arrow_white.png");
+}
+
 .terms-title {
     background-color: #414A5C;
     color: #F8F8F8;
