@@ -376,6 +376,10 @@ body {
     background-color: transparent;
 }
 
+.walletAccess {
+    background-color: #414A5C;
+}
+
 .loader {
     background: url(dual_ring.gif) no-repeat center;
     height: 400px;
