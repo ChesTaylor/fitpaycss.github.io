@@ -403,8 +403,7 @@ body {
 }
 
 .wallet-button-back {
-    /*background: transparent;
-    visibility: hidden;*/
+    background-image: url("back_arrow_white.png");
 }
 
 .addCard-title {
