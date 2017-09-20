@@ -377,7 +377,9 @@ body {
 }
 
 .walletAccess-page {
-    background-color: #414A5C;
+    height: calc(100vh * 57.0 / 667);
+    background: url(dual_ring.gif), #414A5C;
+    color: #F8F8F8;
 }
 
 .loader {
