@@ -382,6 +382,18 @@ body {
     color: #F8F8F8;
 }
 
+.loader {
+    height: 400px;
+    margin-top: 35%;
+    display: none;
+}
+
+.sync-loader {
+    height: 200px;
+    margin-top: 35%;
+    display: none;
+}
+
 .wallet-title {
     background-color: #414A5C;
     color: #F8F8F8;
