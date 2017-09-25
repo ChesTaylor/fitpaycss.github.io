@@ -37,3 +37,6 @@ In addition to being able to override the default WebView CSS, config parameters
 
 External language file can also be used to override the verbiage in the text strings presented in the UI. The sample ```en.json``` file overrides the ```enter_security_pin``` message (this message is presented to the existing user when they get to the PIN Entry Screen).
 
+License
+
+Steve Matteson owns the copyright to the OpenSans font and it is licensed under Apache License, Version 2.0.
