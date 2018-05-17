@@ -556,7 +556,7 @@ body {
 }
 
 .idv-desc:after {
-    content: "Your bank would like to use data already on file to verify that you are the cardholder.  Please select one of the following options:";
+    content: "Please select one of the following identity verification options:";
 }
 
 .idv-button-back {
