@@ -555,16 +555,8 @@ body {
     color: #414A5C;
 }
 
-.idv-desc SPAN {
-    display: none;
-}
-
-.idv-desc:after {
-    content: "Please select one of the following identity verification options:";
-}
-
-#idvCall {
-    display: none;
+.clickable {
+    color: #124080
 }
 
 .idv-button-back {
