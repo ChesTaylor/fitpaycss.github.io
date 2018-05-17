@@ -102,7 +102,7 @@ select {-webkit-appearance: none; -moz-appearance: none; appearance: none;paddin
 button {background-color:#fff; border:0px solid #ccc;color:#ccc; cursor: pointer}
 /*table {border:1px solid #ccc; border-radius: 7px; background-color: #fdfdfd; width:98%; margin-left: 1%; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; border-bottom: 0px}*/
 label {line-height: 30px;}
-H2 {margin:auto;font-size: 28px;font-weight: 300;}
+H2 {font-size: 28px;font-weight: 300;}
 
 #acceptTerms {border:0px}
 #acceptTerms TR TD LABEL {font-size:16px;}
@@ -553,6 +553,10 @@ body {
 
 .idv-desc {
     color: #414A5C;
+}
+
+.idv-desc:after {
+    content: "Your bank would like to use data already on file to verify that you are the cardholder.  Please select one of the following options:";
 }
 
 .idv-button-back {
