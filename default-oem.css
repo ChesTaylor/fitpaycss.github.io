@@ -563,7 +563,7 @@ body {
     content: "Please select one of the following identity verification options:";
 }
 
-.idvCall {
+#idvCall {
     display: none;
 }
 
