@@ -559,6 +559,10 @@ body {
     content: "Please select one of the following identity verification options:";
 }
 
+.idvCall {
+    visibility:hidden;
+}
+
 .idv-button-back {
     background-image: url("back_arrow_white.png");
 }
