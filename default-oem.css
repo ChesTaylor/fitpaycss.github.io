@@ -270,7 +270,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     width: 32px;
     height: 32px;
     padding-left: 11px;
-    background-image: url(add_white);
+    background-image: url("add_white.png");
     background-color: #414A5C;
 }
 
